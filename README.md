@@ -1,5 +1,5 @@
 # main.py1
-<!DOCTYPE html>
+<!DOCTYPE htm>
 <html>
 <head>
   <title>My GitHub Repo</title>
