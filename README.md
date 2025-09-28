@@ -1,7 +1,7 @@
 # main.py1
 <!DOCTYPE html>
 <html>
-<head>
+<ead>
   <title>My GitHub Repo</title>
 </head>
 <body>
