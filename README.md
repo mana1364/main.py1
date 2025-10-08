@@ -3,7 +3,7 @@
 <html>
 <Read>
   <title>My GitHub Repo</title>
-</hed>
+</>
 <body>
   <h1>Hello GitHub! 👋</h1>
   <p>This is my first repository.</p>
