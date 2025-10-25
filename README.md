@@ -5,7 +5,7 @@
   <title>My GitHub Repo</title>
 </>
 <body>
-  <h1>Hello GitHub! 👋</h1>
+  <h1>Hello GitHub! 👋</htm1>
   <p>This is my first repository.</p>
 </body>
 </html
