@@ -7,7 +7,7 @@
 <body>
   <h1>Hello GitHub! 👋</htm1>
   <p>This is my first repository.</p>
-</bod>
+</body>
   </html/
 
 
